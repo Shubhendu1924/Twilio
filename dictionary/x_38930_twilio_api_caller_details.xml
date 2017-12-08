@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Caller Details" max_length="40" name="x_38930_twilio_api_caller_details" type="collection">
+        <element label="User Id" max_length="40" name="user_id" type="string"/>
+    </element>
+</database>
